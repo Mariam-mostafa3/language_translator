@@ -1,0 +1,1 @@
+Language translation using Python, PyTorch, and the Hugging Face Transformers library by importing MarianMTModel and MarianTokenizer. This implementation enables translation between any two languages using a simple and reusable function
